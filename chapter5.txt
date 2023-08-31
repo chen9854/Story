@@ -1,0 +1,1 @@
+Text for branch and merge, on main branch, we add this new file. mainwhile, on other branch, we modifie chapter2.
