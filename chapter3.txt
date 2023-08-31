@@ -1,1 +1,1 @@
-This is chapter3, COCO is sweet dog.
+This is chapter3 for merger branch test, COCO is sweet dog.
